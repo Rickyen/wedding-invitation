@@ -69,7 +69,7 @@ export default {
 <style scoped>
 
 .card {
-    border-color: #d6ba8d;
+    border-color: #feb204;
     border-radius: 0.9rem;
     border-width: 2px;
     margin-left: auto;

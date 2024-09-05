@@ -39,4 +39,4 @@ Just Simple Wedding Digital Invitation. <br>
 
 
 ### Demo
-[Digital Invitation](https://khansa-salman.com)
+[Digital Invitation](https://Ricky Tahmas-Valencia Mulyadi.com)

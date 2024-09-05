@@ -3,14 +3,14 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-    <meta name="title" content="Khansa & Salman">
-    <meta name="description" content="Landing page wedding personal Khansa & Salman">
-    <meta name="keywords" content="khansa & salman, wedding, wedding invitation, villa lagenta">
-    <meta name="author" content="Salman">
+    <meta name="title" content="Ricky Tahmas & Valencia Mulyadi">
+    <meta name="description" content="Landing page wedding personal Ricky Tahmas & Valencia Mulyadi">
+    <meta name="keywords" content="Ricky Tahmas & Valencia Mulyadi, wedding, wedding invitation, villa lagenta">
+    <meta name="author" content="Valencia Mulyadi">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5">
     <meta name="format-detection" content="telephone=no">
-    <title>Khansa & Salman</title>
+    <title>Ricky Tahmas & Valencia Mulyadi</title>
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -29,12 +29,10 @@
         h4,
         h5 {
             font-family: Signature;
-            color: #D6BA8D !important;
+            color: #feb204 !important;
         }
     </style>
-    <style>
-        body{background-color:#1e1d1b;color:#fff;background-image:url("{{ url('assets/images/diamond.svg') }}")}.yn-color{font-family:Scarlet;background:#d6ba8d;-webkit-background-clip:text;-webkit-text-fill-color:transparent}
-    </style>
+   
 </head>
 <body uk-scrollspy="target: .yn-anim; cls: uk-animation-fade; delay: 350">
     <div id="root">
@@ -62,7 +60,7 @@
 
                     <p class="uk-text-medium txt-simple">YOU'RE INVITED TO OUR WEDDING</p>
                     <h2 class="yn-color tw-mt-4" style="line-height:1; margin-bottom:9px !important; font-size:28px;">
-                        Khansa &amp; Salman	</h2>
+                        Ricky Tahmas &amp; Valencia Mulyadi	</h2>
                 </div>
 
                 <div class="tw-mt-20">

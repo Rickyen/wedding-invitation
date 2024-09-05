@@ -14,7 +14,7 @@ module.exports = {
             },
             colors: {
                 'gray-lighter': '#e3e3e3',
-                'brown-lighter': '#d6ba8d',
+                'brown-lighter': '#feb204',
                 'brown-dark': '#8b6626',
             }
         },
